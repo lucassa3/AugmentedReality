@@ -1,6 +1,7 @@
 # AugmentedReality
 Simple AR algorithm to display a custom warped image on top of an aruco board
 ![Alt text](utils/frame_aruco.png?raw=true "Title")
+<br>
 *Fig. 1 - frame applying AR algorithm*
 ## About:
 This simple python program uses your webcam and tries to find an aruco board in the frame. if it does, it replaces it with a custom image. Inside this repo there is a testing iamage (escanor.jpg), but you can use whatever image you want by passing it as an argument when running the script.
